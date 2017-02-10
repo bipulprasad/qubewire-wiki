@@ -131,6 +131,7 @@ $wgDiff3 = "";
 unset($wgGroupPermissions['bot']);
 unset($wgGroupPermissions['bureaucrat']);
 unset($wgGroupPermissions['autoconfirmed']);
+unset($wgFooterIcons['poweredby']);
 
 # The following permissions were set based on your choice in the installer
 $wgGroupPermissions['*']['createaccount'] = false;
