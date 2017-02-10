@@ -35,7 +35,7 @@ $wgSitename = "QubeWire Wiki";
 $wgScriptPath = "";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "http://localhost";
+$wgServer = "http://192.168.113.35";
 
 ## The URL path to static resources (images, scripts, etc.)
 $wgResourceBasePath = $wgScriptPath;
